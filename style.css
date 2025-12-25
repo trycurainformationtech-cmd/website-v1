@@ -61,7 +61,7 @@ h1, h2, h3, h4 {
     top: 0;
     background: white;
     box-shadow: var(--shadow-sm);
-    z-index: 1000;
+    z-index: 700;
     padding: 1rem 0;
 }
 
